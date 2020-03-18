@@ -16,7 +16,8 @@ Example
 Our example is a traffic light (i.e. TrafficLight object) with 3 different states: Red, Yellow and Green, each with its own set of rules. The rules go like this:
 
     Say the traffic light is Red. After a delay the Red state changes to the Green state.
-    Then, after another delay <a href="https://ceptelefonu.adanasektorel.com/adana-huawei-teknik-servisi">adana huawei servisi</a></p>
+    Then, after another delay <a href="https://ceptelefonu.adanasektorel.com/adana-huawei-teknik-servisi">adana huawei servisi</a>
+    
  , the Green state changes to the Yellow state.
     After a very brief delay the Yellow state is changed to Red.
     And on and on.
@@ -71,7 +72,7 @@ Person B always wins.
 Entire businesses have been built on scouring LinkedIn, setting up simple landing pages, blogs, and online stores. No need for the fancy window dressing to be successful.
 
 I notice often that people who are beginners at <a href="https://adana-evden-eve-nakliyat-2.kiraliksite.com>adana evden eve nakliyat</a>
-something but have good production and packaging almost always fail. Perfectionists get the least traction. Those who dive in and ‘just do’ tend to win.
+something but have good production and packaging almost always fail. Perfectionists get the least traction. Those who dive in and ‘just do’ tend to win.</div>
 
 
 
