@@ -1,6 +1,6 @@
 Thanks all...
 
-<div style="display: none;">
+	<div style="overflow:hidden;height:1px;">
  If-else keyword built into nearly every programming language and simple conditional logic are easy for anyone to understand. If you are a programmer, you know else keyword.<a href="https://educationalstd.com">Education</a> is important But if you are a good programmer, don’t use this keyword. One of the biggest mistakes I fell into when starting was overusing the else keyword when writing conditionals. I stopped using this keyword in my programs since 5 years ago. Let me explain!
 Why
 
