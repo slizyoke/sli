@@ -65,7 +65,7 @@ Focus On the Wrong Parts of Projects
 There are two ways to go about projects like writing, shooting YouTube videos, starting a business, whatever it may be.
 
     Person A focuses on window dressing. They need to have their blog perfectly set up and designed before they start writing. They need an expensive camera and lighting set up to start their YouTube channel. Instead of looking for customers for their business, they buy business cards, set up their LLC even though they’re making no money, and add “CEO” to their Twitter bio.
-    Person B gets cheap hosting for their blog, has it set up in hours, and starts writing. When I started my YouTube channel, I just opened my laptop and started shooting videos on my normal <a href="https://elegancemobilya.com/cat/oturma-gruplari">Oturma Gruplari</a></p>. If you want to start a business right now, say freelancing, you could instantly jump on LinkedIn and start pitching people.
+    Person B gets cheap hosting for their blog, has it set up in hours, and starts writing. When I started my YouTube channel, I just opened my laptop and started shooting videos on my normal <a href="https://elegancemobilya.com/cat/oturma-gruplari">Oturma Gruplari</a>. If you want to start a business right now, say freelancing, you could instantly jump on LinkedIn and start pitching people.
 
 Person B always wins.
 
