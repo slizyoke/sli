@@ -1,7 +1,5 @@
 <a rel="external" href="https://docs.google.com/spreadsheets/d/15NWzTKBiZdSO-6RVzAWPmFJFG_h1AFj09XbPFwv-9I4/edit?usp=sharing">Kaynak 1</a>
 <br>
-<a rel="external" href="https://docs.google.com/spreadsheets/d/1E_h2njfEQrxlJG-_y-0fM448ZSHgV7Fv4G9xf_8mFIo/edit?usp=sharing">Kaynak 2</a>
-<br>
 <a rel="external" href="https://docs.google.com/spreadsheets/d/11uh8nHMRhUohCuprEdUt79Ofpi4kbaZ7UPWk0xL7JQ8/edit?usp=sharing">Kaynak 3</a>
 <br>
 <a rel="external" href="https://docs.google.com/spreadsheets/d/1iZqvtwS42oPiVELDNESLLrsNtJaZeWdKDDlLe6DfYt4/edit?usp=sharing">Kaynak 4</a>
